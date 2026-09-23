@@ -1,7 +1,7 @@
 {
     "response": [
         {
-            "maintainer": "Pranav Vashi (neobuddy89)",
+            "maintainer": "rkbkosp",
             "oem": "OnePlus",
             "device": "OnePlus Ace 3",
             "filename": "crDroidAndroid-16.0-20260920-astonc-v12.12.zip",
@@ -20,7 +20,7 @@
             "modem": "",
             "bootloader": "",
             "recovery": "https://sourceforge.net/projects/crdroid/files/astonc/12.x/recovery/",
-            "paypal": "https://www.paypal.com/paypalme/neobuddy89",
+            "paypal": "",
             "telegram": "https://t.me/crdroidOnePlus115G",
             "dt": "https://github.com/crdroidandroid/android_device_oneplus_astonc",
             "common-dt": "https://github.com/crdroidandroid/android_device_oneplus_sm8550-common",
